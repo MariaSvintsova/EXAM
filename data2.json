@@ -4,10 +4,10 @@
   "time": "8:00",
   "discipline": "Теория тепловых процессов",
   "type": "пр",
-  "classroom": -121,
+  "classroom": 121,
   "building": 1,
   "position": "доц",
-  "teacher": "АЛТУНИН КОНСТАНТИН ВИТАЛЬЕВИЧ                                                                       ",
+  "teacher": "АЛТУНИН КОНСТАНТИН ВИТАЛЬЕВИЧ",
   "department": "Кафедра ТиЭМ"
  },
  {
@@ -15,7 +15,7 @@
   "time": "9:40",
   "discipline": "Теория тепловых процессов",
   "type": "лек",
-  "classroom": -121,
+  "classroom": 121,
   "building": 1,
   "position": "доц",
   "teacher": "АЛТУНИН КОНСТАНТИН ВИТАЛЬЕВИЧ                                                                       ",

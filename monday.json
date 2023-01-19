@@ -1,0 +1,156 @@
+[
+{
+  "day_week": "пн",
+  "time": "8:00",
+  "discipline": "Теория тепловых процессов",
+  "type": "лек",
+  "classroom": 112,
+  "building": 1,
+  "position": "пр",
+  "teacher": "    АЛТУНИН КОНСТАНТИН ВИТАЛЬЕВИЧ    ",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "9:40",
+  "discipline": "Теория тепловых процессов",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "пр",
+  "teacher": "    АЛТУНИН КОНСТАНТИН ВИТАЛЬЕВИЧ    ",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "11:20",
+  "discipline": "Теория технологических систем",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "пр",
+  "teacher": "    ТАРАСЕВИЧ СТАНИСЛАВ ЭДУАРДОВИЧ       ",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "13:30",
+  "discipline": "Теория технологических систем",
+  "type": "лек",
+  "classroom": 112,
+  "building": 1,
+  "position": "пр",
+  "teacher": "    ТАРАСЕВИЧ СТАНИСЛАВ ЭДУАРДОВИЧ       ",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "11:20",
+  "discipline": "Теория технологических систем",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "пр",
+  "teacher": "    ТАРАСЕВИЧ СТАНИСЛАВ ЭДУАРДОВИЧ       ",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "13:30",
+  "discipline": "Теория тепловых процессов",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "пр",
+  "teacher": "    АЛТУНИН КОНСТАНТИН ВИТАЛЬЕВИЧ    ",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "08:00:00",
+  "discipline": "Теория технологических систем",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "пр",
+  "teacher": "    ТАРАСЕВИЧ СТАНИСЛАВ ЭДУАРДОВИЧ       ",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "09:40:00",
+  "discipline": "Теория тепловых процессов",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "пр",
+  "teacher": "    АЛТУНИН КОНСТАНТИН ВИТАЛЬЕВИЧ    ",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "11:20:00",
+  "discipline": "Проектирование энергоустановок",
+  "type": "лек",
+  "classroom": 112,
+  "building": 1,
+  "position": "доц",
+  "teacher": "Попов Игорь Александрович",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "13:30:00",
+  "discipline": "Проектирование энергоустановок",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "доц",
+  "teacher": "Попов Игорь Александрович",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "08:00:00",
+  "discipline": "Проектирование энергоустановок",
+  "type": "лек",
+  "classroom": 112,
+  "building": 1,
+  "position": "доц",
+  "teacher": "Попов Игорь Александрович",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "09:40:00",
+  "discipline": "Проектирование энергоустановок",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "доц",
+  "teacher": "Попов Игорь Александрович",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "11:20:00",
+  "discipline": "Проектирование энергоустановок",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "доц",
+  "teacher": "Попов Игорь Александрович",
+  "department": "Кафедра ТиЭМ"
+ },
+ {
+  "day_week": "пн",
+  "time": "13:30:00",
+  "discipline": "Проектирование энергоустановок",
+  "type": "пр",
+  "classroom": 112,
+  "building": 1,
+  "position": "доц",
+  "teacher": "Попов Игорь Александрович",
+  "department": "Кафедра ТиЭМ"
+ }
+]
